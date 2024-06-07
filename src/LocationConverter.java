@@ -14,7 +14,7 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 public class LocationConverter {
-    private static final String apiKey = "AIzaSyDejRQtApk0MeZQ1nGGHalzOC_JFYklfHw";
+    private static final String apiKey = "";
 
     public String convertAddress(String theAddress) throws ParseException {
 
