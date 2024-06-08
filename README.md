@@ -17,6 +17,7 @@
 
 #### Database Samples
 <img src="https://github.com/harsiratgrewal/GroceryFinder-Kroger/blob/main/src/Images/ProductDB.png" width=50% height=50%>
+
 <img src="https://github.com/harsiratgrewal/GroceryFinder-Kroger/blob/main/src/Images/LocationDB.png" width=50% height=50%>
 
 ### Shopping List
@@ -32,6 +33,7 @@
 
 #### Final Display Panel
 <img src="https://github.com/harsiratgrewal/GroceryFinder-Kroger/blob/main/src/Images/Stores.png" width=40% height=40%>
+
 ## END OF DEMO
 
 _Note: Database information and all API keys are redacted for security._
