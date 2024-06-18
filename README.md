@@ -3,7 +3,7 @@
 ### **_BROADER GOAL_: The goal is to provide users with a filtering application that displays all the nearby grocery stores that have the items, selected by the user, in stock. Also providing total cost estimates and total travel times so the user can use between saving time or money.**
 ### **_CURRENT GOAL_: This application only integrates Kroger product inventory and filters out nearby Kroger locations.**
 ### **_FUTURE GOAL_: Develop an application that creates multiple shopping routes for the user to choose from. First, to ensure all desired items are included. Second, to save spending costs. Third, to save traveling time.**
-#
+
 
 ## Application Layout
 
