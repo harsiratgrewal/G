@@ -5,7 +5,7 @@
 ### **_FUTURE GOAL_: Develop an application that creates multiple shopping routes for the user to choose from. First, to ensure all desired items are included. Second, to save spending costs. Third, to save traveling time.**
 #
 
-## APPLICATION DEMO
+## Application Layout
 
 ### Address Prompt
 - The address prompt panel let's user select their address from a drop down list. This is acheived by using ***Address Autocomplete*** feature from the **Google Maps Platform** in **GCP**.
