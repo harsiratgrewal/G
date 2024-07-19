@@ -11,6 +11,8 @@ public class DatabaseConnection {
     public Connection dbLink;
 
     public Connection DBconnection() throws IOException {
+        // Reading from the file dbInfo.txt and storing it in an array.
+        // Line 1 = URL, Line 2 = DB Name, Line 3 = DB Username, Line 4 = DB Password
         try{
         List<String> dbList = new ArrayList<String>();
         BufferedReader bf = new BufferedReader(new FileReader("dbInfo.txt"));
@@ -21,10 +23,12 @@ public class DatabaseConnection {
         }
         bf.close();
         dbList.toArray(new String[0]);
-          
+
+        // Storing the elements from array to variables.
         String url = dbList.get(0), dbName = dbList.get(1), dbUsername = dbList.get(2), dbPassword =
         dbList.get(3);
 
+        // Call the database
         String connectionUrl = url + ";"
                 + "database=" + dbName + ";"
                 + "user=" + dbUsername + ";"
